@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bishal</h1>
-<h3 align="center">Aspiring Web Developer | Focused on Python & JavaScript (React*)</h3>
+<h3 align="center">Aspiring Front-end Developer | Focused on React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaldebroy007&label=Profile%20views&color=0e75b6&style=flat" alt="bishaldebroy007" /> </p>
 
