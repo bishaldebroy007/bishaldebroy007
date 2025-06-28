@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishaldebroy007" alt="bishaldebroy007" /></a> </p>
 
-- 🌱 I’m currently learning **React, Express, Django**
+- 🌱 I’m currently learning **React, Express, Django, Next JS, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bishaldebroy007](https://github.com/bishaldebroy007)
 
