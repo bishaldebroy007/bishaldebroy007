@@ -116,6 +116,7 @@ _Building developer-first Websites that balances speed with long-term maintainab
 | **JavaScript In-depth** | [Namaste JavaScript - Shahil Sing](https://youtube.com/playlist?list=PLxnjbfm5MCHFbRlyVCAqpJFdIzPN_IPID&si=Sp1JzFVyFWAz8GSP)
 | **Python Language Full Course** | [Apna College - Shradha Khapra](https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=m0Mjhilc5oQ7U2t3)
 
+---
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- PRODUCTS & COMMUNITY -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
