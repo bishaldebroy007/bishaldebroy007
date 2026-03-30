@@ -115,6 +115,9 @@ _Building developer-first Websites that balances speed with long-term maintainab
 | **React Native** | [Sheryians Coding School](https://youtu.be/JKccS9k56_I?si=6A5ShuUxaEwYOfe1)
 | **JavaScript In-depth** | [Namaste JavaScript - Shahil Sing](https://youtube.com/playlist?list=PLxnjbfm5MCHFbRlyVCAqpJFdIzPN_IPID&si=Sp1JzFVyFWAz8GSP)
 | **Python Language Full Course** | [Apna College - Shradha Khapra](https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=m0Mjhilc5oQ7U2t3)
+| **Gimini CLI Tutorial** | [Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9h-AKdBSCRpqjD3y6T7Xgrb&si=4sDpO8ndG0pLBpz2)
+| **Claude Code Tutorial** | [Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY&si=uv4HwJ5mvRm6I4Kz)
+
 
 ---
 <!-- ═══════════════════════════════════════════════════════════════ -->
