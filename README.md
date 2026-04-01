@@ -69,8 +69,8 @@ _Building developer-first Websites that balances speed with long-term maintainab
 |---|---|
 | **Languages** | Python · JavaScript · TypeScript · SQL · Bash |
 | **Backend Frameworks** |Express.js · Django · FastAPI |
-| **Frontend** | React · Tailwind CSS |
-| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **Frontend** | React · NEXT JS  · Redux · Tailwind CSS |
+| **Databases** | MySQL · PostgreSQL · MongoDB |
 | **Version Control** | Git · GitHub · GitLab · Conventional Commits |
 <!--| **Testing** | PHPUnit · Pytest · Jest · Cypress · Postman |-->
 
