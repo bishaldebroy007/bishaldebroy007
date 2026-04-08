@@ -20,6 +20,7 @@ _Building developer-first Websites that balances speed with long-term maintainab
 | **Location** | Dhaka, Bangladesh |
 | **Focus** | Frontend architecture, and scalable systems |
 | **Philosophy** | Write code that future-you will thank present-you for |
+| **Education** | BSc. in Computer Science @BRAC University |
 | **Currently** | Workning on Several NEXT JS projects |
 | **Learning** | Distributed systems · Event-driven architecture · Django ecosystem · Fullstack Developement|
 | **Fun Fact** | I debug production issues faster with coffee than without... |
