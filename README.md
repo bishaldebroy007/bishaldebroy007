@@ -8,7 +8,7 @@ _Building developer-first Websites that balances speed with long-term maintainab
 
 ---
 
-![](https://komarev.com/ghpvc/?username=bishaldebroy007)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff8700&style=flat-square&label=McLaren+F1+Fans)
 
 <!-- ![](https://github-visitor-counter-tau.vercel.app/api?username=bishaldebroy007) -->
 
