@@ -8,7 +8,9 @@ _Building developer-first Websites that balances speed with long-term maintainab
 
 ---
 
-![](https://github-visitor-counter-tau.vercel.app/api?username=bishaldebroy007)
+![](https://komarev.com/ghpvc/?username=bishaldebroy007)
+
+<!-- ![](https://github-visitor-counter-tau.vercel.app/api?username=bishaldebroy007) -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
