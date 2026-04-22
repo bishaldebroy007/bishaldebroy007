@@ -29,7 +29,7 @@ _Building developer-first Websites that balances speed with long-term maintainab
 
 | | |
 |---|---|
-| **Role** | Frontend Developer · Technical Writer |
+| **Role** | Developer |
 | **Location** | Dhaka, Bangladesh |
 | **Focus** | Frontend architecture, and scalable systems |
 | **Philosophy** | Write code that future-you will thank present-you for |
