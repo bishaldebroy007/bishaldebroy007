@@ -1,20 +1,29 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!--
 # Hi, I'm Bishal
 
 _Building developer-first Websites that balances speed with long-term maintainability._
+-->
 
----
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Bishal%20Deb%20ROy&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Junior%20Software%20Engineer%20%7C%7C%20Frontend&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-![](https://komarev.com/ghpvc/?username=bishaldebroy007&color=ff8700&style=flat-square&label=Profile+Views)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
 
 <!-- ![](https://github-visitor-counter-tau.vercel.app/api?username=bishaldebroy007) -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+
 
 ## About Me
 
@@ -29,8 +38,32 @@ _Building developer-first Websites that balances speed with long-term maintainab
 | **Learning** | Distributed systems · Event-driven architecture · Django ecosystem · Fullstack Developement|
 | **Fun Fact** | I debug production issues faster with coffee than without... |
 
-> I'm a software engineer who believes that great developer experience starts with component composition
-> and thoughtful API contracts. I spend most of my time crafting the frontend systems that bring those APIs to life.
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS (Optional) -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### GitHub Stats:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=bishaldebroy007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=bishaldebroy007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bishaldebroy007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=bishaldebroy007&theme=tokyonight&radius=10" alt="bishaldebroy007's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 ---
 
@@ -62,11 +95,7 @@ _Building developer-first Websites that balances speed with long-term maintainab
 |---|---|
 | **Frontend Development** | HTML · CSS · JavaScript/TypeScript · React JS · NEXT JS · Performance tuning |
 | **AI-Augmented Engineering** | Advanced use of AI coding tools to accelerate development and improve code quality |
-<!--| **System Architecture** | Scalable monoliths · Modular systems · Service-oriented design |-->
-<!-- | **Infrastructure** | Linux servers · Nginx · Docker · CI/CD · Deployment automation |-->
-<!-- | **Server Management** | VPS provisioning · Production hardening · Automation scripting |-->
-<!-- | **WordPress Engineering** | Large-scale plugin architecture · Extensibility · Backward compatibility |-->
-<!-- | **Performance** | Database optimization · Caching strategies · Async processing |-->
+
 
 ### Languages & Frameworks
 
@@ -83,17 +112,23 @@ _Building developer-first Websites that balances speed with long-term maintainab
 
 | **Category** | **Technologies** |
 |---|---|
-| **CI/CD** | GitHub Actions |
 | **Cloud & Hosting** | Vercel · Netlify |
 | **OS & Shell** | Ubuntu · Zsh |
-<!--| **Monitoring** | Sentry · Prometheus · Grafana · Laravel Telescope |-->
-<!--| **Web Servers** | Nginx · Apache · Caddy · SSL/TLS configuration |-->
-<!--| **Containerization** | Docker · Docker Compose · Multi-stage builds |-->
 
 
-> The goal is to choose the right tool for the job — not the newest or
-> the trendiest, but the one that solves the problem cleanly and scales
-> when needed.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
+![Top language](https://stats.pphat.top/languages?username=bishaldebroy007)
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=bishaldebroy007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bishal Deb ROy's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 ---
 
@@ -123,8 +158,9 @@ _Building developer-first Websites that balances speed with long-term maintainab
 | **Gimini CLI Tutorial** | [Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9h-AKdBSCRpqjD3y6T7Xgrb&si=4sDpO8ndG0pLBpz2)
 | **Claude Code Tutorial** | [Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY&si=uv4HwJ5mvRm6I4Kz)
 
-
 ---
+
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- PRODUCTS & COMMUNITY -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -160,29 +196,25 @@ _Building developer-first Websites that balances speed with long-term maintainab
 
 ---
 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS (Optional) -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--
-## GitHub Stats
 
-| **Metric** | **Details** |
-|---|---|
-| **Total Repositories** | 50+ public repositories |
-| **Open-Source Contributions** | 500+ contributions in the last year |
-| **Stars Earned** | ⭐ 2,000+ across all projects |
-| **Top Languages** | Python · PHP · JavaScript · TypeScript |
-| **Contribution Streak** | 120+ consecutive days |
-
----
--->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONNECT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Connect
+## Random Dev Quote
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
 
 | **Platform** | **Link** |
 |---|---|
@@ -191,9 +223,20 @@ _Building developer-first Websites that balances speed with long-term maintainab
 | **Email** | [rajroybishal@duck.com](mailto:rajroybishal@duck.com) |
 | **Telegram** | [t.me/bishal660](https://t.me/bishal660) |
 
+</div>
 
-> I'm always open to interesting conversations, collaboration
-> opportunities, and new ideas. Don't hesitate to reach out!
+<p align="center">
+  <a href="https://www.linkedin.com/in/bishal-deb-roy-0b31241a0/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rajroybishal@duck.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bishal-deb-roy.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
 
 ---
 
@@ -202,12 +245,14 @@ _Building developer-first Websites that balances speed with long-term maintainab
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 
----
 
 <p align="center">
   <i>Built with focus, caffeine, and an unreasonable love for clean code.</i>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
 
 <!-- <h1 align="center">Hello, I'm Bishal</h1>
