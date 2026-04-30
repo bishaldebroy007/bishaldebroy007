@@ -7,7 +7,7 @@
 _Building developer-first Websites that balances speed with long-term maintainability._
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Bishal%20Deb%20ROy&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Junior%20Software%20Engineer%20%7C%7C%20Frontend&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Bishal%20Deb%20Roy&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Junior%20Software%20Engineer%20%7C%7C%20Frontend&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
@@ -32,11 +32,8 @@ _Building developer-first Websites that balances speed with long-term maintainab
 | **Role** | Developer |
 | **Location** | Dhaka, Bangladesh |
 | **Focus** | Frontend architecture, and scalable systems |
-| **Philosophy** | Write code that future-you will thank present-you for |
 | **Education** | BSc. in Computer Science @BRAC University |
-| **Currently** | Workning on Several NEXT JS projects |
 | **Learning** | Distributed systems · Event-driven architecture · Django ecosystem · Fullstack Developement|
-| **Fun Fact** | I debug production issues faster with coffee than without... |
 
 ---
 
@@ -52,9 +49,9 @@ _Building developer-first Websites that balances speed with long-term maintainab
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=bishaldebroy007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=bishaldebroy007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bishaldebroy007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=bishaldebroy007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=bishaldebroy007&theme=dark&hide_border=false)
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bishaldebroy007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 </div>
 
@@ -70,7 +67,7 @@ _Building developer-first Websites that balances speed with long-term maintainab
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- COMMUNITY & INITIATIVES -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!--
 ## Community & Initiatives
 
 | **Initiative** | **Description** |
@@ -82,38 +79,11 @@ _Building developer-first Websites that balances speed with long-term maintainab
 > lifting each other up, and building a culture of continuous improvement.
 
 ---
-
+-->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECHNICAL STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Technical Stack
-
-### Core Competencies
-
-| **Domain** | **Focus** |
-|---|---|
-| **Frontend Development** | HTML · CSS · JavaScript/TypeScript · React JS · NEXT JS · Performance tuning |
-| **AI-Augmented Engineering** | Advanced use of AI coding tools to accelerate development and improve code quality |
-
-
-### Languages & Frameworks
-
-| **Category** | **Technologies** |
-|---|---|
-| **Languages** | Python · JavaScript · TypeScript · SQL · Bash |
-| **Backend Frameworks** |Express.js · Django · FastAPI |
-| **Frontend** | React · NEXT JS  · Redux · Tailwind CSS |
-| **Databases** | MySQL · PostgreSQL · MongoDB |
-| **Version Control** | Git · GitHub · GitLab · Conventional Commits |
-<!--| **Testing** | PHPUnit · Pytest · Jest · Cypress · Postman |-->
-
-### DevOps & Tooling
-
-| **Category** | **Technologies** |
-|---|---|
-| **Cloud & Hosting** | Vercel · Netlify |
-| **OS & Shell** | Ubuntu · Zsh |
 
 
 <div align="center">
@@ -124,7 +94,7 @@ _Building developer-first Websites that balances speed with long-term maintainab
 ![Top language](https://stats.pphat.top/languages?username=bishaldebroy007)
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=bishaldebroy007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bishal Deb ROy's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=bishaldebroy007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bishal Deb Roy's GitHub Trophies" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
@@ -257,64 +227,3 @@ _Building developer-first Websites that balances speed with long-term maintainab
 </div>
 
 
-<!-- <h1 align="center">Hello, I'm Bishal</h1>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="62" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="62" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="62" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="62" alt="css logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="62" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="62" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="62" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="62" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="62" alt="svelte logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="62" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="62" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="62" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="62" alt="pycharm logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="62" alt="webstorm logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="62" alt="numpy logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="62" alt="bash logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="62" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="62" alt="fastapi logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="62" alt="django logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="62" alt="canva logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="62" alt="android logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bishal-deb-roy-0b31241a0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/bishal.deb.roy.raj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="27" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/bishal600" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="27" alt="telegram logo"  />
-  </a>
-</div> -->
