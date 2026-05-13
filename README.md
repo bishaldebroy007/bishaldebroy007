@@ -33,7 +33,9 @@ _Building developer-first Websites that balances speed with long-term maintainab
 | **Location** | Dhaka, Bangladesh |
 | **Focus** | Frontend architecture, and scalable systems |
 | **Education** | BSc. in Computer Science @BRAC University |
-| **Learning** | Distributed systems · Event-driven architecture · Django ecosystem · Fullstack Developement|
+| **Learning** | Distributed systems · Event-driven architecture · Django & FastAPI ecosystem · Fullstack Developement|
+
+  ![Top language](https://stats.pphat.top/languages?username=bishaldebroy007)
 
 ---
 
@@ -56,11 +58,12 @@ _Building developer-first Websites that balances speed with long-term maintainab
 </div>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=bishaldebroy007&theme=tokyonight&radius=10" alt="bishaldebroy007's Activity Graph" />
-</p>
-<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=bishaldebroy007&theme=tokyonight&radius=10" alt="bishaldebroy007's Activity Graph" /> </br>
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
+<!-- <p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p> -->
 
 ---
 
@@ -91,7 +94,7 @@ _Building developer-first Websites that balances speed with long-term maintainab
 </div>
 
 
-![Top language](https://stats.pphat.top/languages?username=bishaldebroy007)
+
 
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=bishaldebroy007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bishal Deb Roy's GitHub Trophies" />
