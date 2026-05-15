@@ -96,9 +96,9 @@ _Building developer-first Websites that balances speed with long-term maintainab
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=bishaldebroy007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bishal Deb Roy's GitHub Trophies" />
-</p>
+</p> -->
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
