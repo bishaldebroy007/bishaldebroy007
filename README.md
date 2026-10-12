@@ -33,7 +33,11 @@ _Building developer-first Websites that balances speed with long-term maintainab
 | **Location** | Dhaka, Bangladesh |
 | **Focus** | Frontend architecture, and scalable systems |
 | **Education** | BSc. in Computer Science @BRAC University |
-| **Learning** | Distributed systems · Event-driven architecture · Django & FastAPI ecosystem · Fullstack Developement|
+| **Learning** | Distributed systems · Event-driven architecture · Django & FastAPI ecosystem · Fullstack Developement · Machine Learning|
+
+---
+
+> A curious mind guided by science, reason, and evidence. I question assumptions, value critical thinking, and believe that beliefs should follow facts—not the other way around. Always learning, always questioning.
 
   ![Top language](https://stats.pphat.top/languages?username=bishaldebroy007)
 
@@ -178,10 +182,18 @@ _Building developer-first Websites that balances speed with long-term maintainab
 <!-- CONNECT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Random Dev Quote
-<div align="center">
+## Favourite Quote
+<!-- <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+</div> -->
+<div align="center">
+  
+```
+“I would rather have questions that can't be answered than answers that can't be questioned.”
+— Richard P. Feynman
+```
 
 </div>
 
@@ -195,7 +207,7 @@ _Building developer-first Websites that balances speed with long-term maintainab
 |---|---|
 | **LinkedIn** | [linkedin.com/in/bishal-deb-roy-0b31241a0](https://www.linkedin.com/in/bishal-deb-roy-0b31241a0/) |
 | **Dev.to** | [dev.to/raj_cf4a9488d201bb1c91c10](https://dev.to/raj_cf4a9488d201bb1c91c10) |
-| **Email** | [rajroybishal@duck.com](mailto:rajroybishal@duck.com) |
+| **Email** | [reptile-antibody56@bravealias.com](mailto:reptile-antibody56@bravealias.com) |
 | **Telegram** | [t.me/bishal660](https://t.me/bishal660) |
 
 </div>
